@@ -1,6 +1,8 @@
 <h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlmZmg4YWJvNnE5aHdkZ2VpdTFjZ243a2VybnBnNjRlNHFyMzU1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exmxx1fr6m1BGaiEvX/giphy.gif" width="50">  Aloha there, my name is Philipp Ludewig <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkaGwxZGh0YzZoOW0zNmhoN2x6eTRrdnJkamtuMWt2N295cHYyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mPGo386UYlmFy/giphy.gif" width="50"></h2>
 
 <img src="./images/tw_banner.jpeg" alt="Banner for some colors"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=diesdasjenes.diesdasjenes)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ## 📈 My GitHub Stats
 
