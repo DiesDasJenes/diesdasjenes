@@ -2,7 +2,9 @@
 
 <img src="./images/tw_banner.jpeg" alt="Banner for some colors"/>
 
-![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+I love ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+
+<p><em>I was a Senior Developer Consultant at ThoughtWorks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <a href="https://www.linkedin.com/in/philipp-ludewig-8574aa9b/">#OpenToWork</a></p></em>
 
 ### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ3Y2gzeHozemg0azBoMW1zNGc4ZWRsdDZ5eTY5NGtxNmczc2o1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> A little more about me...  
 
@@ -19,7 +21,7 @@ let diesdasjenes = Diesdasjenes {
         "tech trends 📈"
     ],
 
-    // Technologies I'm well-versed in, organized by domain
+    // Technologies I had the opportunity to work with, organized by domain
     technologies: HashMap::from([
         (
             "frontEnd",
