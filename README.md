@@ -1,4 +1,4 @@
-<h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzAyYWF2MmdxdDM2MnB6d2plZWFoM3NhMGV0NTJheHg4cHk1OG91MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/nZZGbTmB6H580xXgEa/giphy.gif" width="100"> there, my name is Philipp Ludewig <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkaGwxZGh0YzZoOW0zNmhoN2x6eTRrdnJkamtuMWt2N295cHYyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mPGo386UYlmFy/giphy.gif" width="50"></h2>
+<h2> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHlmZmg4YWJvNnE5aHdkZ2VpdTFjZ243a2VybnBnNjRlNHFyMzU1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Exmxx1fr6m1BGaiEvX/giphy.gif" width="50">  Aloha there, my name is Philipp Ludewig <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlkaGwxZGh0YzZoOW0zNmhoN2x6eTRrdnJkamtuMWt2N295cHYyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mPGo386UYlmFy/giphy.gif" width="50"></h2>
 
 <img src="./images/tw_banner.jpeg" alt="Banner for some colors"/>
 
