@@ -4,7 +4,7 @@
 
 ## 📈 My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas&layout=compact)](https://github.com/diesdasjenes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diesdasjenes&layout=compact)](https://github.com/diesdasjenes/github-readme-stats)
 
 ## 📫 You can find me @
 <!-- YOU-CAN-FIND-ME:START -->
