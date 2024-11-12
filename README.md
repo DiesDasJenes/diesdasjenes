@@ -1,6 +1,6 @@
 ## Aloha there, my name is Philipp Ludewig 👋
 
-<a href="https://youtube.com/tapasadhikary" target="_blank"><img src="./images/256px_tw_banner.png" alt="Banner for some colors"/></a>
+<a href="https://youtube.com/tapasadhikary" target="_blank"><img src="./images/tw_banner.png" alt="Banner for some colors"/></a>
 
 ## 📈 My GitHub Stats
 
